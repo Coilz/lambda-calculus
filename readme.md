@@ -11,7 +11,7 @@
 
 Clone this repository
 ```bash
-$ git clone git@github.com:Coilz/lambda-calculus.git lambda-calculus
+$ git clone https://github.com/Coilz/lambda-calculus.git lambda-calculus
 ```
 
 Cd into the created folder and start jupyter notebook
